@@ -1,0 +1,11 @@
+PackageIdentifier: DevZucca.AppLoggerCLI
+PackageVersion: 0.1.2
+Installers:
+  - Architecture: x64
+    InstallerType: portable
+    InstallerUrl: https://github.com/zuccadev-labs/appLoggers/releases/download/applogger-cli-v0.1.2/applogger-cli-windows-amd64.exe
+    InstallerSha256: 68ad3614ef179cb972585c0aea913faa34c50d7a0d7f8ca9d5560752056bf1f3
+    Commands:
+      - applogger-cli
+ManifestType: installer
+ManifestVersion: 1.6.0
