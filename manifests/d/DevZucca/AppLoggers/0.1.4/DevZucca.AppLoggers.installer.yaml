@@ -1,0 +1,11 @@
+PackageIdentifier: DevZucca.AppLoggers
+PackageVersion: 0.1.4
+Installers:
+  - Architecture: x64
+    InstallerType: portable
+    InstallerUrl: https://github.com/zuccadev-labs/appLoggers/releases/download/apploggers-v0.1.4/apploggers-windows-amd64.exe
+    InstallerSha256: 23cb456146a6e9202c678f5da5b1df345f1d3ad57591f85f3c2fe6c522b95c2f
+    Commands:
+      - apploggers
+ManifestType: installer
+ManifestVersion: 1.6.0
