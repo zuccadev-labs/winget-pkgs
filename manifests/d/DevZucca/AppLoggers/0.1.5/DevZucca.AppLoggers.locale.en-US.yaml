@@ -1,0 +1,9 @@
+PackageIdentifier: DevZucca.AppLoggers
+PackageVersion: 0.1.5
+PackageLocale: en-US
+Publisher: DevZucca
+PackageName: AppLoggers CLI
+License: MIT
+ShortDescription: AppLoggers telemetry CLI
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
